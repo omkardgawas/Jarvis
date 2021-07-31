@@ -11,4 +11,5 @@ Functionalities of this project include:
 8. It can give weather forecast. 
 9. It can give desktop reminders of your choice. 
 10. It can have some basic conversation. 
+
 Now the basic question arises in mind that how it is an AI? The virtual assistant that I have created is like if it is not an A.I, but it is the output of a bundle of the statement. But fundamentally, the mail purpose of A.I machines is that it can perform human tasks with the same efficiency or even more efficiently than humans. It is a fact that my virtual assistant is not a very good example of A.I., but it is an A.I.
